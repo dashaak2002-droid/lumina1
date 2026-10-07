@@ -1,0 +1,11 @@
+{
+  "name": "Lumina — Life OS",
+  "short_name": "Lumina",
+  "description": "Планер, привычки, цели и AI-помощник в одном приложении",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f2ec",
+  "theme_color": "#f6f2ec",
+  "lang": "ru",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
